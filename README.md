@@ -22,10 +22,13 @@ Se quizo utilizar una estructura de carpetas en base a modulos, cada modulo pued
 
 ### Instalación del proyecto:
 
-```Clona el repositorio desde github o bajando el .zip```
-```cd Frontend ```
-```npm install```
-```npm run dev```
+      Clona el repositorio desde github o bajando el .zip
+      
+      cd Frontend ```
+      
+      npm install```
+      
+      npm run dev```
 
 El proyecto se abrirá en el puerto 3000 de tu localhost: http://localhost:3000
 Despliegue en vercel: celsia-omegahack.vercel.app
