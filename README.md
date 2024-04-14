@@ -7,6 +7,8 @@ Este repositorio contiene el desarrollo de front, back y entrenamiento del model
 Por favor, consulta el documento entregable para más detalles: [Entregable](https://docs.google.com/document/d/10XPGSA8f83XxOJyr741QBS0GnA0bKQiPpOMaY5kljKU/edit?usp=sharing).
 ##
 Por favor, consulta el documento bitacora para más detalles: [Bitacora](https://docs.google.com/document/d/1eJSguXiwOOCWThZrM-JE72qhjw1qmB_lcJdybwqeeWY/edit?usp=sharing).
+##
+Por favor, consulta la presentacion de pitch: [Pitch](https://www.canva.com/design/DAGCZn7KB6M/9C0_WcMf_zBaDGQe_SWWJw/edit?utm_content=DAGCZn7KB6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 ## Sobre el modelo
 El modelo es una regresion lineal de keras, en el preprocesamiento se aprovecha la funcion seno para aislar las caracteristicas del comportamiento ciclico(diario,semanal...etc)
 de consumo general de los electrodomesticos reduciendo el ruido normalizando los datos y en general dandonos un modelo eficiente, se piensa escalar el modelo llevando a un modelo
