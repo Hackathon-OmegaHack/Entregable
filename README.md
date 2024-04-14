@@ -1,4 +1,4 @@
-# Entregable Importante
+# Descripcion de los proyectos
 
 ## Descripción
 Este repositorio contiene el desarrollo de front, back y entrenamiento del modelo, el siguiente link se contiene el entregable del poryecto y la bitacora
