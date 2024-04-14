@@ -14,3 +14,4 @@ de red neuronal para poder aplicar fine tuning con el cual se esacalara y aislar
 ## Sobre el Frontend
 
 ## Sobre el Backend
+El backend es una API construida en FastAPI y desplegada en nube en railwai que consume el modelo y al cual se le puede entregar un archivo csv y nos devuelve dos  archivos una de la prediccion de los electrodomesticos y otro que nos indica el estado de encendido de los electrodomesticos
