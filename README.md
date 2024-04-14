@@ -1,7 +1,9 @@
 # Descripcion de los proyectos
 
 ## Descripción
-Este repositorio contiene el desarrollo de front, back y entrenamiento del modelo, el siguiente link se contiene el entregable del poryecto y la bitacora
+Este repositorio contiene el desarrollo de front, back y entrenamiento del modelo, el siguiente link se contiene el entregable del poryecto y la bitacora.
+
+**Para descargar y/o probar el model dirijase a la pestaña de /csv**
 
 ## Documento Entregable y bitacora
 Por favor, consulta el documento entregable para más detalles: [Entregable](https://docs.google.com/document/d/10XPGSA8f83XxOJyr741QBS0GnA0bKQiPpOMaY5kljKU/edit?usp=sharing).
@@ -38,6 +40,8 @@ Se quizo utilizar una estructura de carpetas en base a modulos, cada modulo pued
 - El proyecto se abrirá en el puerto 3000 de tu localhost: http://localhost:3000
 
 - Despliegue en vercel: celsia-omegahack.vercel.app
+
+- Para descargar y/o probar el model dirijase a la pestaña de /csv
   
 ## Sobre el Backend
 El backend es una API construida en FastAPI y desplegada en nube en railwai que consume el modelo y al cual se le puede entregar un archivo csv y nos devuelve dos json una de la prediccion de los electrodomesticos y otro que nos indica el estado de encendido de los electrodomesticos
