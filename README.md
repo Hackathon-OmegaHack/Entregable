@@ -42,7 +42,7 @@ Se quizo utilizar una estructura de carpetas en base a modulos, cada modulo pued
 ## Sobre el Backend
 El backend es una API construida en FastAPI y desplegada en nube en railwai que consume el modelo y al cual se le puede entregar un archivo csv y nos devuelve dos json una de la prediccion de los electrodomesticos y otro que nos indica el estado de encendido de los electrodomesticos
 - Python 3.12.3
-- FasAPI
+- FastAPI
 - Docker
   Link Backend [BACK](https://backend-production-27fa.up.railway.app/).
 
