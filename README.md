@@ -3,7 +3,7 @@
 ## Descripción
 Este repositorio contiene el desarrollo de front, back y entrenamiento del modelo, el siguiente link se contiene el entregable del poryecto y la bitacora.
 
-**Para descargar y/o probar el model dirijase a la pestaña de /csv**
+**Para descargar y/o probar el modelo dirijase a la pestaña de /csv, usted podrá subir un archivo .csv para probarlo y inmediatamente se descargará la respuesta**
 
 ## Documento Entregable y bitacora
 Por favor, consulta el documento entregable para más detalles: [Entregable](https://docs.google.com/document/d/10XPGSA8f83XxOJyr741QBS0GnA0bKQiPpOMaY5kljKU/edit?usp=sharing).
