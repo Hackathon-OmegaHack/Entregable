@@ -11,6 +11,9 @@ Por favor, consulta el documento bitacora para más detalles: [Bitacora](https:/
 El modelo es una regresion lineal de keras, en el preprocesamiento se aprovecha la funcion seno para aislar las caracteristicas del comportamiento ciclico(diario,semanal...etc)
 de consumo general de los electrodomesticos reduciendo el ruido normalizando los datos y en general dandonos un modelo eficiente, se piensa escalar el modelo llevando a un modelo
 de red neuronal para poder aplicar fine tuning con el cual se esacalara y aislara por tipo de personas
+- Python 3.12.3
+- Jupyter notebooks
+las celdas de los notebooks deben ser ejecutadas en orden de arriba a abajo
 ## Sobre el Frontend
 El proyecto está hecho utilizando las siguientes librerias:
 - ReactJS
